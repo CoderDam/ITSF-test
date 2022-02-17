@@ -1,0 +1,16 @@
+.App {
+  background-color: #123;
+  color: #ddd;
+  height: 100vh;
+  padding: 50px;
+}
+
+.App h1 {
+  margin-bottom: 20px;
+}
+.App p {
+  margin-bottom: 8px;
+}
+.App a {
+  color: yellow;
+}
